@@ -1,0 +1,18 @@
+https://palvelukartta.hel.fi/?_rdr=
+
+
+trip advisor
+
+income level based on postal codes
+
+buffer density 
+network distace based on walking from metro station (5 km per hour)
+10 minutes from metro station train station
+
+
+Network analysis.
+
+Deadline 
+Jan 13, 2019
+
+
