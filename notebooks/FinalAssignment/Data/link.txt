@@ -17,3 +17,4 @@ Jan 13, 2019
 
 
 https://pythonhow.com/web-mapping-with-python-and-folium/
+https://gis.stackexchange.com/questions/294206/create-a-polygon-from-coordinates-in-geopandas-with-python
