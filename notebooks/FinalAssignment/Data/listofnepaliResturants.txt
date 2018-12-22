@@ -1,4 +1,4 @@
-﻿id;name; addr
+id;name;addr
 1;Ravintola Base Camp;"Yliopistonkatu 5, 00100 Helsinki"
 2;Ravintola Mountain;"Nordenskiöldinkatu 8, 00250 Helsinki"
 3;Ravintola Satkar Kamppi;"Fredrikinkatu 46, 00100 Helsinki"
