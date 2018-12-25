@@ -20,3 +20,4 @@ https://pythonhow.com/web-mapping-with-python-and-folium/
 https://gis.stackexchange.com/questions/294206/create-a-polygon-from-coordinates-in-geopandas-with-python
 https://python-visualization.github.io/folium/quickstart.html
 http://www.stevencanplan.com/2015/12/how-to-extract-highways-and-subway-lines-from-openstreetmap-as-a-shapefile/
+https://rsandstroem.github.io/GeoMapsFoliumDemo.html
